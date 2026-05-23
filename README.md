@@ -53,5 +53,3 @@ Through this project, I improved my skills in:
 - Data cleaning
 - Business analysis
 - Interactive reporting.
-## Dashboard Preview
-(Add your dashboard screenshot here)
